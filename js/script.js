@@ -1,2 +1,3 @@
+"use strict";
 
-'use strict';
+var carmine = "carmine";
