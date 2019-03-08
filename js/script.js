@@ -1,6 +1,7 @@
+"use strict";
 
-'use strict';
 
+var carmine = "carmine";
 var alberto = "alberto";
 var nadia = "nadia";
 var Nicola = "Nicola";
